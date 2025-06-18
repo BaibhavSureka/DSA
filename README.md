@@ -51,4 +51,12 @@
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## String
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
+## Simulation
+|  |
+| ------- |
+| [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
 <!---LeetCode Topics End-->
