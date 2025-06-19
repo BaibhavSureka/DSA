@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
