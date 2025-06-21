@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/BaibhavSureka/DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
@@ -60,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
@@ -79,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/BaibhavSureka/DSA/tree/master/0031-next-permutation) |
 ## Counting
 |  |
