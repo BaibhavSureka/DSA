@@ -35,6 +35,7 @@
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/BaibhavSureka/DSA/tree/master/0135-candy) |
+| [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -84,6 +85,7 @@
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Two Pointers
 |  |
 | ------- |
