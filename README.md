@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
@@ -79,6 +80,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
@@ -104,4 +106,12 @@
 | ------- |
 | [0086-partition-list](https://github.com/BaibhavSureka/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/BaibhavSureka/DSA/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
