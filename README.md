@@ -39,6 +39,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
+| [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -90,6 +91,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 ## Two Pointers
 |  |
 | ------- |
