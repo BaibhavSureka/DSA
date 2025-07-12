@@ -76,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/BaibhavSureka/DSA/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/BaibhavSureka/DSA/tree/master/0086-partition-list) |
