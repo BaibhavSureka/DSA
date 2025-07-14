@@ -7,6 +7,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/BaibhavSureka/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/BaibhavSureka/DSA/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -38,6 +39,7 @@
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -134,12 +136,14 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -150,4 +154,5 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
