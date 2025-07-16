@@ -19,12 +19,14 @@
 | [0110-balanced-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/BaibhavSureka/DSA/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/BaibhavSureka/DSA/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 ## Graph
 |  |
@@ -142,6 +144,7 @@
 | [0110-balanced-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BaibhavSureka/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | [0110-balanced-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/BaibhavSureka/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
