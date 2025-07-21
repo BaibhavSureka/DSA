@@ -43,6 +43,7 @@
 | [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/BaibhavSureka/DSA/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/BaibhavSureka/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -64,6 +65,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/BaibhavSureka/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/BaibhavSureka/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/BaibhavSureka/DSA/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
