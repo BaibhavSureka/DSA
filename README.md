@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/BaibhavSureka/DSA/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
