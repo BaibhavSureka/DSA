@@ -15,6 +15,7 @@
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
