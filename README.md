@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/BaibhavSureka/DSA/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -158,6 +159,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/BaibhavSureka/DSA/tree/master/0060-permutation-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
