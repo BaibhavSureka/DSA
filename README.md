@@ -66,6 +66,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BaibhavSureka/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
