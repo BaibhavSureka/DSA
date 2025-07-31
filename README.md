@@ -62,6 +62,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
@@ -136,6 +137,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 ## Two Pointers
 |  |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BaibhavSureka/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
