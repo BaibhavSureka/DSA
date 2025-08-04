@@ -30,6 +30,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,11 +40,13 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/BaibhavSureka/DSA/tree/master/0133-clone-graph) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
 | ------- |
@@ -239,4 +242,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
