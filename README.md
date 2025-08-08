@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/BaibhavSureka/DSA/tree/master/0060-permutation-sequence) |
+| [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -146,6 +147,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 ## Two Pointers
@@ -246,4 +248,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
