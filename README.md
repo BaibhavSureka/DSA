@@ -11,6 +11,7 @@
 | [0133-clone-graph](https://github.com/BaibhavSureka/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/BaibhavSureka/DSA/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
@@ -29,6 +30,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -39,6 +41,7 @@
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -66,6 +69,7 @@
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
@@ -118,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
@@ -127,6 +132,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/BaibhavSureka/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/BaibhavSureka/DSA/tree/master/3396-valid-word) |
@@ -247,6 +253,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Probability and Statistics
 |  |
