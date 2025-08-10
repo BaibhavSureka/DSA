@@ -13,6 +13,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/BaibhavSureka/DSA/tree/master/0060-permutation-sequence) |
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -123,6 +125,7 @@
 | [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
@@ -169,6 +172,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
@@ -259,4 +263,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
