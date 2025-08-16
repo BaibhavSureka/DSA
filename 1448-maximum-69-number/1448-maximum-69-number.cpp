@@ -1,11 +1,13 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        int a=-1;
-        for(int n=num, d=0; n>0; n/=10, d++) {
-            int r=n%10;
-            if (r==6) a=d;
+        std::string s = std::to_string(num);
+        for (char &c : s) {
+            if (c == '6') {
+                c = '9';
+                break;
+            }
         }
-        return (a==-1)?num:int(num+3*pow(10,a));     
+        return std::stoi(s);
     }
 };
