@@ -99,6 +99,7 @@
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/BaibhavSureka/DSA/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -112,6 +113,7 @@
 | [0060-permutation-sequence](https://github.com/BaibhavSureka/DSA/tree/master/0060-permutation-sequence) |
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
