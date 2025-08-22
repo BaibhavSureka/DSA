@@ -84,6 +84,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
@@ -93,6 +94,7 @@
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
