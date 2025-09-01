@@ -78,6 +78,7 @@
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BaibhavSureka/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -104,6 +105,7 @@
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
 | ------- |
