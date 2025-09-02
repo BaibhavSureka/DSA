@@ -86,6 +86,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
@@ -119,6 +120,7 @@
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/BaibhavSureka/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/BaibhavSureka/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -138,6 +140,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
 | ------- |
@@ -278,4 +281,9 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
