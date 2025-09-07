@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/BaibhavSureka/DSA/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
@@ -104,6 +105,7 @@
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/BaibhavSureka/DSA/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -135,6 +137,7 @@
 | [0015-3sum](https://github.com/BaibhavSureka/DSA/tree/master/0015-3sum) |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -147,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BaibhavSureka/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/BaibhavSureka/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/BaibhavSureka/DSA/tree/master/3396-valid-word) |
@@ -184,6 +188,7 @@
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
@@ -242,6 +247,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
+| [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
