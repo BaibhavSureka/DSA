@@ -159,6 +159,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BaibhavSureka/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
