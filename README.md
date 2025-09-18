@@ -19,6 +19,7 @@
 | [1006-vowel-spellchecker](https://github.com/BaibhavSureka/DSA/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BaibhavSureka/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -82,6 +83,7 @@
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BaibhavSureka/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BaibhavSureka/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -111,6 +113,7 @@
 | [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/BaibhavSureka/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
