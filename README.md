@@ -68,6 +68,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/BaibhavSureka/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/BaibhavSureka/DSA/tree/master/0135-candy) |
@@ -179,6 +180,7 @@
 | [0055-jump-game](https://github.com/BaibhavSureka/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/BaibhavSureka/DSA/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/BaibhavSureka/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BaibhavSureka/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/BaibhavSureka/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
