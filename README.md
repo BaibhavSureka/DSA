@@ -81,6 +81,7 @@
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/BaibhavSureka/DSA/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/BaibhavSureka/DSA/tree/master/1039-find-the-town-judge) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/BaibhavSureka/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BaibhavSureka/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/BaibhavSureka/DSA/tree/master/1813-maximum-erasure-value) |
@@ -186,6 +187,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/BaibhavSureka/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/BaibhavSureka/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1130-last-stone-weight-ii](https://github.com/BaibhavSureka/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BaibhavSureka/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
