@@ -37,6 +37,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
@@ -48,6 +49,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/BaibhavSureka/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
@@ -77,6 +79,7 @@
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/BaibhavSureka/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/BaibhavSureka/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/BaibhavSureka/DSA/tree/master/1006-vowel-spellchecker) |
@@ -105,6 +108,7 @@
 | [0079-word-search](https://github.com/BaibhavSureka/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
@@ -255,6 +259,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/BaibhavSureka/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BaibhavSureka/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/BaibhavSureka/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -265,6 +270,7 @@
 | ------- |
 | [0502-ipo](https://github.com/BaibhavSureka/DSA/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/BaibhavSureka/DSA/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Backtracking
 |  |
@@ -296,6 +302,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/BaibhavSureka/DSA/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/BaibhavSureka/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Probability and Statistics
 |  |
