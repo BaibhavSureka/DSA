@@ -100,6 +100,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3893-generate-tag-for-video-caption](https://github.com/BaibhavSureka/DSA/tree/master/3893-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/BaibhavSureka/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
