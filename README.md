@@ -98,6 +98,7 @@
 | [2689-rearranging-fruits](https://github.com/BaibhavSureka/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/BaibhavSureka/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/BaibhavSureka/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/BaibhavSureka/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -330,5 +331,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/BaibhavSureka/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
