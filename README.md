@@ -92,6 +92,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/BaibhavSureka/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -112,6 +113,7 @@
 | [0200-number-of-islands](https://github.com/BaibhavSureka/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
@@ -138,6 +140,7 @@
 | [0826-soup-servings](https://github.com/BaibhavSureka/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/BaibhavSureka/DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/BaibhavSureka/DSA/tree/master/1448-maximum-69-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/BaibhavSureka/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/BaibhavSureka/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/BaibhavSureka/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -172,6 +175,7 @@
 | [1006-vowel-spellchecker](https://github.com/BaibhavSureka/DSA/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/BaibhavSureka/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/BaibhavSureka/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3396-valid-word](https://github.com/BaibhavSureka/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/BaibhavSureka/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/BaibhavSureka/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
