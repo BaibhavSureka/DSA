@@ -94,6 +94,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/BaibhavSureka/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/BaibhavSureka/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/BaibhavSureka/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/BaibhavSureka/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/BaibhavSureka/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/BaibhavSureka/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -116,6 +117,7 @@
 | [0733-flood-fill](https://github.com/BaibhavSureka/DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/BaibhavSureka/DSA/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/BaibhavSureka/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/BaibhavSureka/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/BaibhavSureka/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
@@ -186,6 +188,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/BaibhavSureka/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/BaibhavSureka/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/BaibhavSureka/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/BaibhavSureka/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
